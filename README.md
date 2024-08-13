@@ -1,11 +1,13 @@
-## Boas vindas ao meu perfil 👋
-
-Meu nome é Lara Alcantara
+Boas vindas ao meu perfil 💙💙
+Meu nome é Maria Lara 
 
 - Estou estudando na Alura
-- Estou me desenvolvendo na limguagem lavaScript
-- Ultilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-  ### Voce entrar em cintato comigo
+## Você pode entrar em contato comigo 📫
 
+alurastartestudante@email.com
+
+@alurastartestudante
   
